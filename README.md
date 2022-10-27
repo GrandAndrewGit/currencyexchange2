@@ -1,4 +1,4 @@
-# Exchange Converter based on Monobank Api
+# Exchange Converter based on Monobank Api.
 
 SPA with two components: header and converter.
 
